@@ -6,3 +6,4 @@
 x=a+b+c
 y=a-b-c
 z=x+y
+k=x-y
